@@ -13,4 +13,7 @@ public class FirstClass {
         System.out.println("hello world");
         System.out.println("hello world");
     }
+    public void show(){
+        System.out.println("hello");
+    }
 }
